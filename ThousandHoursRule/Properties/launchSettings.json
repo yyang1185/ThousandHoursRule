@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ThousandHoursRule (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ThousandHoursRule (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
